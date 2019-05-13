@@ -1,0 +1,1323 @@
+@media (max-width: 1650px) {
+  #footer {
+    background-position: 64% 0%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .logoarea2 {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .logo3 {
+    display: none;
+  }
+}
+
+@media (max-width: 1199px) {
+  .top-bar::after {
+    display: none;
+  }
+
+  #header.bg1 {
+    background: #fff;
+  }
+
+  .logo_area1 {
+    display: none !important;
+  }
+
+  #header.bg1 {
+    background: #0088fe !important;
+  }
+
+  #header {
+    background: #0088fe;
+  }
+
+  #header::before {
+    background: none;
+  }
+
+  .logoarea2 {
+    text-align: center;
+    padding: 20px;
+  }
+
+  #navbarSupportedContent {
+    padding: 0px 15px;
+  }
+
+  .logoarea2 img {
+    display: inline-block;
+    position: inherit;
+    z-index: 9;
+  }
+
+  .top_choices .box .box-bottom-link ul li a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .top_choices .box .box-bottom-img ul li a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+  }
+
+  .top_choices .box-bottom-img {
+    padding: 17px 30px 5px;
+  }
+
+  .nav-tabs .nav-item {
+    margin-bottom: 5px;
+  }
+
+  .top_choices .box5 .list .iner-box span {
+    font-size: 40px;
+  }
+
+  .top_info .box-1 {
+    margin-bottom: 30px;
+  }
+
+  .top_choices .box-bottom-link {
+    padding: 15px 30px;
+  }
+
+  .top_choices .box5 .list .iner-box p {
+    font-size: 18px;
+    letter-spacing: 4px;
+  }
+
+  .top_choices .box5 .list .inner-text h2 {
+    font-size: 30px;
+  }
+
+  #footer {
+    background-position: -200% 0%;
+    background-color: #180d5b;
+    background-image: none;
+  }
+
+  .top_choices .box .emoje ul li .icon {
+    margin-bottom: 10px;
+  }
+
+  .top_choices .box .b-f-p {
+    margin-top: 10px;
+  }
+
+
+  /* details page css start */
+
+  .body-class.index.details .vot_area .text_box i {
+    font-size: 30px;
+  }
+
+  .body-class.index.details .vot_area .text_box .captcha_code {
+    width: 70px;
+    height: 34px;
+    top: 10px;
+    right: 10px;
+  }
+
+  .body-class.index.details .vot_area .text_box .captcha_code p {
+    line-height: 33px;
+  }
+
+
+  /* details page css end */
+  .formtabArea .box .nav-tabs .nav-item .nav-link::before {
+    bottom: -25px;
+  }
+
+  .forum .forum_menu_area .navbar-light .navbar-nav .nav-link {
+    padding: 15px 15px;
+  }
+
+  .infoBox .innerContent .Right_content li {
+    margin-right: 49px;
+    padding-right: 49px;
+  }
+
+  .formtabArea .aside {
+    margin-top: 30px;
+  }
+
+  .forum .aside .box4 .list ul li i {
+    margin: 0px 47px;
+  }
+
+  .forum_details .infoBox .innerContent .left_content p {
+    width: 410px;
+  }
+
+  .infoBox .innerContent .Right_content li {
+    margin-right: 36px;
+    padding-right: 37px;
+  }
+
+  .top_info .tags li a {
+    width: 185px;
+  }
+
+  .profilebox {
+    padding: 61px 30px 54px;
+  }
+
+  .leftContent .profilebox {
+    padding: 61px 15px 54px;
+  }
+
+  .peopleInfo::after {
+    right: -30px;
+  }
+
+  .rightContent .peopleDetails {
+    padding: 61px 15px 54px 16px;
+
+  }
+
+  #blog .aside h3::before {
+    display: none;
+  }
+
+  #blog .aside h3::after {
+    display: none;
+  }
+
+  .forum #blog .aside .box2 ul li {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+
+  #blog .aside .box2 {
+    padding: 34px 28px 38px 28px;
+  }
+
+  .addbannertop .content2 h3 {
+    font-size: 34px;
+  }
+
+  .addbannertop .content h3 {
+    font-size: 34px;
+  }
+
+  .topBanner .banner ul li {
+    margin-bottom: 30px;
+  }
+
+  .topBanner .banner ul li:nth-child(3) {
+    margin-bottom: 0px;
+  }
+
+  .topBanner .banner ul li:nth-child(4) {
+    margin-bottom: 0px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(6) .box {
+    margin-top: 30px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(7) .box {
+    margin-top: 30px;
+  }
+
+  .bodyArea .content h2 {
+    font-size: 30px;
+  }
+
+  #browshyip .nav-tabs .nav-item {
+    margin-bottom: 0px;
+  }
+
+  #browshyip .row.content2 {
+    margin-top: 30px;
+  }
+
+  .bh_tabs .bottom_area {
+    display: -webkit-grid !important;
+    display: -moz-grid !important;
+    display: -ms-grid !important;
+    display: -o-grid !important;
+    display: grid !important;
+  }
+
+  #browshyip .row.content2 .right_img {
+    margin-top: 22px;
+    display: block;
+  }
+
+  .businessDeal .left_content h3,
+  .ourmission .right_content h3,
+  .businessDeal2 .left_content h3 {
+    font-size: 46px;
+  }
+
+  .feature .box h3 {
+    font-size: 30px;
+  }
+
+  .feature .box {
+    padding: 119px 15px 120px;
+  }
+
+  .businessDeal {
+    padding: 64px 0px 52px;
+  }
+
+  .ourmission {
+    padding: 80px 0px 65px;
+  }
+
+  .businessDeal2 {
+    padding: 80px 0px 42px;
+  }
+
+  .businessDeal .right_content {
+    margin: 23px 0px 28px;
+  }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+@media (max-width: 991px) {
+  .formtabArea .box .nav-tabs .nav-item:first-child .nav-link {
+    padding-left: 9px;
+  }
+
+  .body-class.index.details .banner-box {
+    margin-left: 150px;
+    margin-right: 150px;
+
+  }
+
+  .forum .forum_menu_area .navbar-light .singing a {
+    margin-left: 15px;
+
+  }
+
+  .forum .forum_menu_area .navbar-light .singing {
+    margin-bottom: 30px;
+    margin-top: 10px;
+  }
+
+  #form_menu .navbar-nav {
+    padding: 30px 0px 0px;
+  }
+
+  .formtabArea .box .nav-tabs .nav-item .nav-link {
+    padding: 5px 9px;
+    border: 1px solid #fff;
+    margin: 0px 6px 2px 0px;
+  }
+
+  .formtabArea .box .nav-tabs .nav-item .nav-link::before {
+    background: none;
+  }
+
+  .formtabArea .box .nav-tabs .nav-item .nav-link.active {
+    background: #fff;
+    color: #0088fe;
+  }
+
+  .infoBox .innerContent .left_content p {
+    width: 100%;
+    margin-bottom: 24px;
+  }
+
+  .infoBox .innerContent .Right_content li:first-child {
+    margin-left: 30px;
+  }
+
+  .infoBox .innerContent .Right_content li {
+    margin-right: 73px;
+    padding-right: 74px;
+  }
+
+  .formtabArea .box .header_right {
+    width: 160px;
+    text-align: right;
+  }
+
+
+  .forum .aside .box4 .list ul li i {
+    margin: 0px 32px;
+  }
+
+  .main_mamu {
+    background: #0088fe;
+    padding: 15px 15px;
+    position: relative;
+  }
+
+  .main_mamu .logo3 img {
+    width: 150px;
+  }
+
+  .logoarea2 {
+    display: none;
+  }
+
+  #navbarSupportedContent {
+    position: absolute;
+    top: 150%;
+    background: #fff;
+    width: 100%;
+    z-index: 999;
+    padding-top: 8px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  }
+
+  .main_mamu .mr_btn_solid {
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 15px;
+
+  }
+
+  .navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, 0);
+    border: 0px;
+
+  }
+
+  .navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(225, 225, 225, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    padding: 15px 15px 15px 0px;
+  }
+
+  .top_info .box-2 {
+    margin-bottom: 30px;
+
+  }
+
+  .top_choices {
+    margin-top: 30px;
+  }
+
+  .top_choices .aside {
+    margin-top: 30px;
+  }
+
+  #footer {
+    background-position: -115% 0%;
+  }
+
+  .top-bar {
+    padding: 15px 15px 15px 15px;
+  }
+
+  .top_choices .box .box-bottom-img ul li a {
+    margin-right: 25px;
+  }
+
+  .top_choices .box .box-bottom-link ul li a {
+    margin-right: 4px;
+  }
+
+  #formList .table .box img {
+    width: 60px;
+    height: 60px;
+  }
+
+  #formList .table th:last-child {
+    padding: 14px 30px 14px 14px;
+  }
+
+  #formList .table .box .p {
+    margin-top: 3px;
+  }
+
+  #formList .table .box2 span {
+    margin-left: 10px;
+    display: inline-block;
+  }
+
+  .infoBox .innerContent {
+    display: flow-root !important;
+  }
+
+  .forum_details .infoBox .innerContent .left_content p {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .forum_details .infoBox .innerContent .Right_content li {
+    margin-right: 88px;
+    padding-right: 88px;
+  }
+
+  .forum_details .infoBox .innerContent .Right_content li:last-child {
+    margin-right: 0px;
+    padding-right: 0px;
+  }
+
+  .forum_details .infoBox .innerContent .Right_content li:first-child {
+    margin-left: 0px;
+  }
+
+  .forum_details .top_banner p {
+    width: 100%;
+  }
+
+  .forum_menu_area .navbar .second-nav {
+    padding: 10px 0px;
+  }
+
+  .forum_menu_area .navbar .second-nav {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  #form_menu {
+    position: absolute;
+    background: #0088fe;
+    z-index: 9;
+    top: 100%;
+  }
+
+
+  .top_info .tags li a {
+    width: 169px;
+    line-height: 34px;
+    font-size: 14px;
+  }
+
+  .formDetailsArea .top_info h3 {
+    font-size: 25px;
+  }
+
+  .profileDetails {
+    margin-top: 30px;
+  }
+
+  .medeal_info h2 {
+    font-size: 70px;
+  }
+
+  .peopleInfo::after {
+    display: none;
+  }
+
+  .rightContent .peopleDetails {
+    padding: 0px 30px 54px 30px;
+  }
+
+  .formDetailsArea .social_area {
+    display: flow-root !important;
+  }
+
+  .formDetailsArea .social_area .right {
+    margin-top: 25px;
+  }
+
+  #banner .banner-info h1 {
+    font-size: 70px;
+  }
+
+  #blog .aside .box1 {
+    margin-top: 80px;
+  }
+
+  .blogDetailsclass #blog .aside .box1 {
+    margin-top: 49px;
+  }
+
+  #blog.blogDetails {
+    padding: 80px 0px 80px;
+  }
+
+  .addbannertop {
+    margin-top: 21px;
+  }
+
+  .aside .addbannertop {
+    margin-top: 45px;
+  }
+
+  .addbanner_box {
+    padding: 0px 200px;
+  }
+
+  .pyamentmethod.pm1 {
+    margin-bottom: 30px;
+  }
+
+  .businessDeal {
+    padding: 58px 0px 52px;
+  }
+
+  .ourmission .left_content {
+    margin-bottom: 42px;
+  }
+
+  .businessDeal2 .right_content {
+    margin-top: 12px;
+    margin-bottom: 37px;
+  }
+
+  .counter .box {
+    margin-bottom: 45px;
+  }
+
+  .counter {
+    padding: 100px 0px 50px;
+  }
+  .formtabArea #myformTab {
+    padding: 30px 20px 23px;
+}
+
+}
+
+
+@media (max-width: 767.98px) {
+  .top-bar {
+    padding: 15px 15px 15px 15px;
+    display: flow-root !important;
+    text-align: center;
+  }
+
+  .top-bar .right {
+    margin-top: 11px;
+  }
+
+  #footer {
+    background-position: -88% 0%;
+  }
+  #footer {
+    padding: 100px 0px 53px;
+}
+  .subscribe_wraper .subscribe_form input {
+    width: 260px;
+    padding: 12px 60px 12px 20px;
+  }
+
+  .subscribe_wraper .subscribe_form button {
+    width: 130px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-left: -47px;
+  }
+
+  .subscribe_wraper h2 {
+    font-size: 46px;
+  }
+
+  .body-class.index.details .vot_area .head .left {
+    width: 200px;
+  }
+
+  .body-class.index.details .vot_area .text_box i {
+    display: none;
+  }
+
+  .body-class.index.details .banner-box {
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+
+  .formtabArea .box .header_right {
+    width: 100%;
+    padding: 25px 30px;
+  }
+
+  .infoBox .innerContent {
+    display: flow-root !important;
+  }
+
+  .infoBox .innerContent .left_content p {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .infoBox .innerContent .Right_content li:first-child {
+    margin-left: 0px;
+  }
+
+  .infoBox .innerContent .Right_content li {
+    margin-right: 43px;
+    padding-right: 43px;
+  }
+
+  .forum .aside .box4 .list ul li i {
+    margin: 0px 21px;
+  }
+
+  .formtabArea .box .header {
+    background: #1491fe;
+    display: flow-root !important;
+  }
+
+  .forum_details .infoBox .innerContent .Right_content li {
+    margin-right: 43px;
+    padding-right: 43px;
+  }
+
+  .forum_details .infoBox .innerContent .left_content p {
+    margin-bottom: 20px;
+
+  }
+
+  .select_box.text-right {
+    line-height: 60px;
+  }
+
+  #formList .table .box {
+    display: flow-root !important;
+    text-align: center;
+
+  }
+
+  #formList .table .box img {
+    margin-right: 0px;
+    margin-bottom: 10px;
+  }
+
+  #formList .table .box .p {
+    margin-top: 5px;
+  }
+
+  #formList .table .box .h4 span {
+    margin-top: 11px;
+  }
+
+  #formList .table .box2 {
+    padding-top: 68px;
+  }
+
+  #formList .table .box3 {
+    padding-top: 68px;
+  }
+
+  .formDetailsArea .top_info {
+    display: flow-root !important;
+  }
+
+  .formDetailsArea .top_info .left {
+    text-align: center;
+    margin-bottom: 28px;
+  }
+
+  .medeal_info h2 {
+    font-size: 50px;
+  }
+
+  .medeal_info span {
+    font-size: 20px;
+  }
+
+  .blogDetails .post-bottom-content .bottom-content .left-content ul li a {
+    padding: 5px 10px;
+  }
+
+  .blogDetails .post-bottom-content .bottom-content .left-content ul li {
+    margin: 0 3px;
+  }
+
+  .topBanner .banner ul li:nth-child(2) {
+    margin-bottom: 0px;
+  }
+
+  .addbanner_box {
+    padding: 0px 122px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(3) .box {
+    margin-right: 0px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(6) .box {
+    margin-right: 0px;
+  }
+
+  #contactUs .form_relative {
+    padding-bottom: 709px;
+  }
+
+  .logRegForm .loginnow,
+  .logRegForm .loginwithfb {
+    margin: 0px 0px 30px;
+  }
+
+
+
+
+
+
+}
+
+
+@media (max-width: 575px) {
+  #banner .banner-info h1 {
+    font-size: 50px;
+  }
+
+  #banner .banner-info span {
+    font-size: 30px;
+  }
+
+  #banner .banner-info {
+    padding: 150px 0px 159px;
+  }
+
+  .top_info h2 {
+    font-size: 30px;
+  }
+
+  .top_info .item h5 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .top_info .box-2 span {
+    font-size: 16px;
+  }
+
+  .top_choices .box .body {
+    display: flow-root;
+  }
+
+  .top_choices .box .body .list ul li {
+    display: inline-block;
+  }
+
+  .top_choices .box .body .list ul li:first-child {
+    display: block;
+    width: 125px;
+  }
+
+  .top_choices .box .body .list ul {
+    margin-bottom: 28px;
+  }
+
+  .top_choices .box .list_2 .l-l-border .left_list {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+  }
+
+  .top_choices .box .list_2 .l-l-border {
+    margin-bottom: 0px;
+  }
+
+  .box4 .nav-tabs .nav-item {
+    margin-bottom: 0px;
+  }
+
+  .nav-tabs .nav-item .nav-link {
+    padding: 6px;
+  }
+
+  #banner .banner-info .links ul li a {
+    padding: 10px 16px;
+    margin-right: 5px;
+  }
+
+  #banner .banner-info span {
+    font-size: 26px;
+  }
+
+  .subscribe_wraper {
+    padding: 76px 20px 80px;
+  }
+
+  .subscribe_wraper .subscribe_form input {
+    width: 100%;
+    padding: 12px 20px 12px 20px;
+    margin-bottom: 15px;
+  }
+
+  .subscribe_wraper .subscribe_form button {
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-left: 0px;
+  }
+
+  .subscribe_wraper h2 {
+    font-size: 30px;
+  }
+
+  #footer {
+    background-position: -60% 0%;
+  }
+
+  #footer h4 {
+    font-size: 20px;
+  }
+  #footer p {
+    font-size: 16px;
+}
+  .top_choices .box .top_heading {
+    display: flow-root !important;
+  }
+
+  .top_choices .box .top_heading h2 {
+    font-size: 18px;
+  }
+
+  #footer .item {
+    margin-bottom: 40px;
+    text-align: center;
+    display: block !important;
+  }
+
+  #footer i {
+    color: #1491fe;
+    font-size: 40px;
+    margin-bottom: 15px;
+  }
+
+  .body-class.index.details .vot_area .text_box i {
+    display: block;
+  }
+
+  .hyipmonitor .headerTop p {
+    padding-right: 0px;
+  }
+
+  .rightContent .peopleDetails {
+    padding: 0px 15px 54px 15px;
+  }
+
+  .formDetailsArea .social_area .right a {
+    width: 455px;
+  }
+
+  .blog_box .content h2 {
+    font-size: 22px;
+  }
+
+  .topBanner .banner ul li {
+    margin-right: 5px;
+    margin-bottom: 9px;
+  }
+
+  .table td,
+  .table th {
+    padding: 14px 10px 14px;
+  }
+
+  .buyBannrForm .topForm .submit1 {
+    display: block;
+  }
+
+  .buyBannrForm .topForm .submit1 {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(7) .box {
+
+    margin-top: 30px;
+
+  }
+
+  #contactUs h2 {
+    font-size: 36px;
+  }
+
+  #contactUs .form_relative .contact_form_wrappre {
+
+    padding: 67px 15px 80px;
+  }
+
+  #contactUs {
+    padding: 70px 0px 50px;
+  }
+
+  .businessDeal .left_content h3,
+  .ourmission .right_content h3,
+  .businessDeal2 .left_content h3 {
+    font-size: 36px;
+  }
+
+  .businessDeal .left_content h4,
+  .ourmission .right_content h4,
+  .businessDeal2 .left_content h4 {
+    font-size: 18px;
+  }
+
+  .forum_details #formList {
+    padding: 0px 0px 77px 0px;
+  }
+  .infoBox .innerContent .Right_content li {
+    margin-right: 20px;
+    padding-right: 21px;
+}
+.feature .box i {
+  font-size: 60px;
+  color: #0088fe;
+}
+.counter .box i {
+  font-size: 60px;
+}
+.counter .box .count, .counter .box span {
+  font-size: 40px;
+}
+#banner {
+  background-position: left;
+}
+.feature .box h3 {
+  font-size: 28px;
+}
+.businessDeal2 .left_content ul li h5 {
+  font-size: 18px;
+}
+.top_info h2 {
+  font-size: 28px;
+}
+}
+
+
+@media (max-width: 518px) {
+  .buyBannrForm .inputArea .pyamentmethod ul li .box {
+    width: 100px;
+    margin-right: 5px;
+
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod ul li .box i {
+    font-size: 25px;
+    line-height: 56px;
+    margin-left: 30px;
+  }
+
+  .pyamentmethod.pm1 {
+    margin-bottom: 9px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li .box {
+    margin-right: 5px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(6) .box {
+    margin-top: 9px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(7) .box {
+    margin-top: 9px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li .box label.p {
+    line-height: 48px;
+  }
+
+
+
+
+
+}
+
+
+
+@media (max-width: 500px) {
+  .body-class.index.details .banner-box {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .body-class.index.details .vot_area .head .left {
+    width: 380px;
+  }
+
+  .body-class.index.details .rating_overview .left_content {
+    width: 100%;
+  }
+
+  .body-class.index.details .rating_overview .Right_content {
+    width: 100%;
+  }
+
+  .body-class.index.details .rating_overview ul .body {
+    display: block !important;
+  }
+
+  .body-class.index.details .rating_overview ul .body .Right_content p {
+    margin-top: 10px;
+  }
+
+  .infoBox .innerContent .Right_content li {
+    margin-right: 19px;
+    padding-right: 25px;
+  }
+
+  .infoBox .innerContent .Right_content li:last-child {
+    margin-left: 45px;
+    margin-top: 10px;
+  }
+
+  .infoBox .innerContent .Right_content p {
+    font-weight: 400;
+    font-size: 11px;
+  }
+
+  .infoBox .innerContent .Right_content span {
+    font-weight: 400;
+    font-size: 11px;
+  }
+
+  .forum_details .infoBox .innerContent .Right_content li {
+    margin-right: 3px;
+    padding-right: 6px;
+  }
+
+  .infoBox .innerContent .Right_content li:last-child {
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+
+  .top_banner {
+    padding: 53px 30px 60px;
+
+  }
+
+  #banner .banner-info h1 {
+    font-size: 35px;
+  }
+
+  #banner .banner-info span {
+    font-size: 18px;
+  }
+
+  .formDetailsArea .top_info h3 {
+
+    font-size: 20px;
+
+  }
+
+  .top_info .info li p:first-child {
+    margin-right: 11px;
+  }
+
+  .top_info .info li p,
+  .top_info .info li a {
+    font-size: 14px;
+  }
+
+  .profileDetails h3 {
+    font-size: 25px;
+  }
+
+  .medeal_info {
+    padding: 60px 30px;
+  }
+
+  .medeal_info h2 {
+    font-size: 35px;
+  }
+
+  .formDetailsArea .social_area .right a {
+    width: 287px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 14px;
+  }
+
+  .common_area ul {
+    padding-left: 0px;
+    padding-top: 42px;
+  }
+
+  .common_area {
+    padding: 34px 15px 22px;
+  }
+
+  .blog_box .content {
+    padding: 0px 15px 40px 15px;
+  }
+
+  .date {
+    left: 15px;
+  }
+
+  .blogDetails .blockquote-wrapper .media {
+    display: flow-root !important;
+  }
+
+  .blogDetails .blockquote-wrapper .media i {
+    margin-bottom: 19px;
+  }
+
+  .blogDetails .comments-area .single-comment-item .content {
+    padding-left: 0px;
+    padding-top: 101px;
+  }
+
+  .blogDetails .post-bottom-content .top-content .right-content .title {
+    display: none;
+  }
+
+  .blogDetails .post-bottom-content .bottom-content .right-content .title {
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+
+  .blogDetails .post-bottom-content .bottom-content .right-content {
+    float: none;
+    display: block;
+  }
+
+  .addbanner_box {
+    padding: 0px 62px;
+  }
+
+  .topBanner .banner ul li {
+    max-width: 100%;
+    height: auto;
+    max-height: auto;
+  }
+
+  .topBanner .banner ul li:nth-child(1) {
+    margin-bottom: 10px;
+  }
+
+  .topBanner .banner ul li:nth-child(2) {
+    margin-bottom: 10px;
+  }
+
+  .topBanner .banner ul li:nth-child(3) {
+    margin-bottom: 10px;
+  }
+
+  .topBanner .banner ul li:nth-child(4) {
+    margin-bottom: 0px;
+  }
+
+  .bodyArea .content h2 {
+    font-size: 25px;
+  }
+
+  #browshyip .bodyArea .content.d-flex {
+    display: flow-root !important;
+  }
+
+  #browshyip .bodyArea .content .left img {
+    margin-right: 0px;
+    margin-bottom: 25px;
+  }
+
+  #browshyip .nav-tabs .nav-link {
+    font-size: 12px;
+    width: 90px;
+    height: 42px;
+    line-height: 26px;
+  }
+
+  .logRegForm .contact_form_wrappre2 {
+    padding: 60px 10px 60px;
+  }
+
+  .hyipmonitor .headerTop a {
+    display: none;
+  }
+  .infoBox .innerContent .Right_content li {
+    margin-right: 20px;
+    padding-right: 21px;
+}
+}
+
+@media (max-width: 427px) {
+  .buyBannrForm .inputArea .pyamentmethod ul li:last-child .box {
+    margin-top: 9px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(3) .box {
+    margin-top: 9px;
+    margin-right: 5px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod.pm2 ul li:nth-child(4) .box {
+    margin-top: 9px;
+
+  }
+
+  .addhype .buyBannrForm .submit2 {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .buyBannrForm {
+    padding: 27px 15px 30px 15px;
+  }
+
+  .body-class.index.details .vot_area .text_box {
+    padding: 13px 15px 18px 15px;
+  }
+  .top_banner h3 {
+    font-size: 26px;
+    font-weight: 700;
+    color: #fff;
+}
+.body-class.index.details .banner-box h2 {
+  font-size: 40px;
+}
+.profilebox .name h3 {
+  font-size: 22px;
+}
+}
+
+
+
+
+@media (max-width: 325px) {
+  .buyBannrForm .inputArea .pyamentmethod ul li .box {
+    width: 80px;
+    height: 50px;
+    line-height: 50px;
+    margin-right: 5px;
+  }
+
+  .buyBannrForm .inputArea .pyamentmethod ul li .box .form-check {
+    padding-left: 11px;
+  }
+}
+
+@media (max-width: 380px) {
+
+  .businessDeal .left_content h3,
+  .ourmission .right_content h3,
+  .businessDeal2 .left_content h3 {
+    font-size: 30px;
+  }
+
+  .businessDeal .left_content h4,
+  .ourmission .right_content h4,
+  .businessDeal2 .left_content h4 {
+    font-size: 18px;
+  }
+  .addbanner_box {
+    padding: 0px 0px;
+}
+.infoBox .innerContent .Right_content li {
+  margin-right: 4px;
+  padding-right: 5px;
+}
+#blog .sociaolLinks a i {
+  height: 35px;
+  width: 35px;
+  line-height: 34px;
+  font-size: 12px;
+}
+
+}
