@@ -2,7 +2,30 @@
 
 namespace App\Http\Controllers;
 
+use App\Vote;
+use Carbon\Carbon;
+use App\Status;
+use App\Admin;
+use App\AdPackage;
+use App\IndexSetting;
+use App\logoSetting;
+use App\FooterSetting;
+use App\Setting;
+use App\BannerSetting;
+use App\HyipSetting;
+use App\Feature;
+use App\Company;
+use App\AdSize;
+use App\AboutSetting;
+use App\Advertisement;
+use App\Category;
+use App\DetailSetting;
+use App\WithdrawalType;
+use App\PaymentMedium;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
+use Intervention\Image\Facades\Image as ImageIntervention;
 
 class HyipController extends Controller
 {
